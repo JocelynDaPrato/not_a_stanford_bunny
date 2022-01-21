@@ -6,6 +6,7 @@ This is a sculpting on the famous Stanford Bunny. I did it simply to get more de
 - no UV.
 - in Blender environment, the model is doing 3meter size.
 
+
 Licensing:
 - no right to sell.
 - Feel free to share, use, modify.
