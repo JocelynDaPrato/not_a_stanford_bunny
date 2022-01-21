@@ -7,5 +7,6 @@ This is a sculpting on the famous Stanford Bunny. I did it simply to get more de
 - in Blender environment, the model is doing 3meter size.
 
 Licensing:
+- no right to sell.
 - Feel free to share, use, modify.
-- Just don't forget to credit me (Jocelyn Da Prato) and the Stanford Computer Graphics Laboratory
+- Just don't forget to credit me (Jocelyn Da Prato) and the Stanford Computer Graphics Laboratory.
