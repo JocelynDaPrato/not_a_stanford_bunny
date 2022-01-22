@@ -7,7 +7,7 @@ This is a sculpting on the famous Stanford Bunny. I did it simply to get more de
 - in Blender environment, the model is doing 3meter size.
 
 The model was exported in OBJ, compressed in ZIP.
-Check "renders" to screenshots.
+Check "renders" for screenshots.
 
 Licensing:
 - no right to sell.
